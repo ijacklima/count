@@ -1,0 +1,23 @@
+* {
+  background-color: lightblue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body {
+  text-align: center;
+}
+
+#counter {
+  padding: 40px;
+
+}
+
+button {
+  padding: 10px 24px;
+  border-radius: 12px;
+  background-color: pink;
+  color: black;
+  border: 2px solid #2b97b380;
+  transition-duration: 0.4s;
+  text-decoration: none;
+}
